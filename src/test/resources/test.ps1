@@ -1,0 +1,1 @@
+kotlinc -script "G:\bossweb\gradle-kts\src\test\resources\KtsTest.main.kts"
